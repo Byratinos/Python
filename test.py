@@ -1,3 +1,3 @@
 print('Hello world!')
 print('Test')
-primt('GIT on')
+primt('yes git on read')
